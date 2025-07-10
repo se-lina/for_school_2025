@@ -23,7 +23,7 @@ for_school_2025
 
 ## 📁 プログラム一覧と解説
 
-### ① [greeting_bot.py](https://github.com/example-user/python-practice-hs/blob/main/greeting_bot.py)（あいさつボット）
+### ① [greeting_bot.py](https://github.com/se-lina/for_school_2025/blob/main/calculator_quiz.py)（あいさつボット）
 
 💡 **できること：**
 - 「名前」と「朝・昼・夜」を入力すると、時間帯に応じてあいさつしてくれます！
@@ -39,7 +39,7 @@ for_school_2025
 
 ---
 
-### ② [calculator_quiz.py](https://github.com/example-user/python-practice-hs/blob/main/calculator_quiz.py)（かんたん電卓）
+### ② [calculator_quiz.py](https://github.com/se-lina/for_school_2025/blob/main/greeting_bot.py)（かんたん電卓）
 
 💡 **できること：**
 - 2つの数字と、計算の種類（たし算・ひき算など）を入力すると、答えを出してくれます！
@@ -55,7 +55,7 @@ for_school_2025
 
 ---
 
-### ③ [fizzbuzz.py](https://github.com/example-user/python-practice-hs/blob/main/fizzbuzz.py)（定番！FizzBuzzゲーム）
+### ③ [fizzbuzz.py](https://github.com/se-lina/for_school_2025/blob/main/fizzbuzz.py)（定番！FizzBuzzゲーム）
 
 💡 **できること：**
 - 1～20までの数字を順番に表示しながら、「3の倍数→Fizz」「5の倍数→Buzz」「両方→FizzBuzz」と表示します！
@@ -71,7 +71,7 @@ for_school_2025
 
 ---
 
-### ④ [multiplication_table.py](https://github.com/example-user/python-practice-hs/blob/main/multiplication_table.py)（九九を表示するプログラム）
+### ④ [multiplication_table.py](https://github.com/se-lina/for_school_2025/blob/main/multiplication_table.py)（九九を表示するプログラム）
 
 💡 **できること：**
 - 1×1 から 9×9 までの九九の表を、自動で全部表示します！
@@ -92,7 +92,6 @@ for_school_2025
 この教材を使って、パソコンやプログラミングに「ちょっとわかったかも！」という気持ちを持ってもらえたら嬉しいです。  
 わからないところは、どんどん聞いてくださいね！
 
-> 講師：片寄 里菜（株式会社moegi 代表／慶應義塾大学SFC）
 
 ---
 
