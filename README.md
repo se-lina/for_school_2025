@@ -23,7 +23,7 @@ for_school_2025
 
 ## 📁 プログラム一覧と解説
 
-### ① [greeting_bot.py](https://github.com/se-lina/for_school_2025/blob/main/calculator_quiz.py)（あいさつボット）
+### ① [greeting_bot.py](https://github.com/se-lina/for_school_2025/blob/main/greeting_bot.py)（あいさつボット）
 
 💡 **できること：**
 - 「名前」と「朝・昼・夜」を入力すると、時間帯に応じてあいさつしてくれます！
@@ -47,7 +47,7 @@ for_school_2025
 
 ---
 
-### ② [calculator_quiz.py](https://github.com/se-lina/for_school_2025/blob/main/greeting_bot.py)（かんたん電卓）
+### ② [calculator_quiz.py](https://github.com/se-lina/for_school_2025/blob/main/calculator_quiz.py)（かんたん電卓）
 
 💡 **できること：**
 - 2つの数字と、計算の種類（たし算・ひき算など）を入力すると、答えを出してくれます！
